@@ -1,7 +1,7 @@
 # Advanced Sales Analytics Dashboard
 
 
-This repository showcases an Advanced Sales Analytics Dashboard built using Power BI. The dashboard provides comprehensive sales insights by leveraging advanced data visualization and analytical techniques. It demonstrates best practices in data modeling, DAX calculations, and user interactivity, making it a powerful tool for sales trend analysis and strategic decision making
+This repository showcases an Advanced Sales Analytics Dashboard built using Power BI. The dashboard provides comprehensive sales insights by leveraging advanced data visualization and analytical techniques. It demonstrates best practices in data modeling, DAX calculations, and user interactivity, making it a powerful tool for sales trend analysis and strategic decision making for stakeholders.
 
 ## Features & Key Functionalities:
 ### 1. Dashboard Design in Power BI:
